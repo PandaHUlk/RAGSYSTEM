@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-openai
+sentence-transformers
+faiss-cpu
+streamlit
+pypdf
+scikit-learn
+python-dotenv
+tiktoken
+hdbscan
+umap-learn
+pydantic
+chromadb
+tf-keras
+langchain-google-genai
+-e .
